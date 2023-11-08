@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <img align="right" alt="Coding" width="400" src="add your link 
-  here">
+  <img align="right" alt="Coding" width="400" src="bob.jpeg">
